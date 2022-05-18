@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Plant_App.iml" filepath="$PROJECT_DIR$/.idea/modules/Plant_App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Plant_App.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Plant_App.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1004934628/Plant_App.react-native-camera.iml" filepath="$PROJECT_DIR$/.idea/modules/-1004934628/Plant_App.react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-582145402/Plant_App.react-native-community_blur.iml" filepath="$PROJECT_DIR$/.idea/modules/-582145402/Plant_App.react-native-community_blur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1512105958/Plant_App.react-native-pager-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1512105958/Plant_App.react-native-pager-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1991054872/Plant_App.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1991054872/Plant_App.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/437302320/Plant_App.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/437302320/Plant_App.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-910261107/Plant_App.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-910261107/Plant_App.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1789528263/Plant_App.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1789528263/Plant_App.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1948121090/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/1948121090/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>
